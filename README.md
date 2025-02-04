@@ -1,2 +1,5 @@
 # Inteligencia-Artificial
-Trabajos Y Tareas de la Materia IA
+Trabajos Y Tareas de la Materia IA 
+INTEGRANTES
+Garcia Pérez José Ángel 
+Verdugo Bermúdez Sebastián
