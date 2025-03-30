@@ -3,5 +3,5 @@
 # Inteligencia-Artificial
 # Trabajos Y Tareas de la Materia IA 
 ## INTEGRANTES
-### Garcia Pérez José Ángel No.Control: 21170336
-### Verdugo Bermúdez Sebastián No.Control: 21170512
+### Garcia Pérez José Ángel - No.Control: 21170336
+### Verdugo Bermúdez Sebastián -  No.Control: 21170512
