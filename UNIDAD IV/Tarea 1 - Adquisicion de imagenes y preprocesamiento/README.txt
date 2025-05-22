@@ -5,6 +5,8 @@ Profesor: Zuriel Dathan Mora Félix.
 Equipo: García Pérez José Ángel, Verdugo Bermúdez Sebastián. 
 Tarea: "Adquisición y Preprocesamiento de Imágenes para la Clasificación de Emociones"
 
+Link Drive extracto de Dataset Aumentado: https://drive.google.com/drive/folders/1s-mLw-SBkCEEwyHldbQB27JAdUfhv8Qj?usp=drive_link
+
 Propósito
 El propósito de este proyecto es desarrollar un sistema que prepare adecuadamente el dataset FER-2013, aplicando técnicas de preprocesamiento y visualización de imágenes con el objetivo de facilitar el entrenamiento futuro de modelos que clasifiquen emociones faciales de manera precisa. Esto se logra mediante la organización de imágenes por clases emocionales, aplicación de aumentos de datos, y validación visual con la herramienta FiftyOne.
 
