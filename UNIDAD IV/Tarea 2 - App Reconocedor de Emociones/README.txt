@@ -52,6 +52,7 @@ pip install torch torchvision albumentations fiftyone opencv-python pillow numpy
 Dataset Utilizado
 -----------------
 - FER2013: Dataset de emociones faciales con imágenes de 48x48 píxeles en escala de grises, dividido en carpetas por emoción (angry, disgust, fear, happy, neutral, sad, surprise).
+  Link Dataset: https://www.kaggle.com/datasets/msambare/fer2013
 - Haar Cascade: Se utiliza el archivo haarcascade_frontalface_default.xml de OpenCV para la detección de rostros en imágenes y video.
 
 Funcionamiento de las Clases Principales
